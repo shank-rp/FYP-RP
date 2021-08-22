@@ -1,0 +1,6 @@
+{
+  "id":"1dd34fcb3a814795af71495f320cf437",
+  "name":"EdgeX SYZ",
+  "rules": false,
+  "ssh": {"username": "syz", "password": "@Dm1n&SYZ%-_", "port": 8472}
+}

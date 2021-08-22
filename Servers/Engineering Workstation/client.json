@@ -1,0 +1,10 @@
+{
+  "id":"091a66714314417fa892e2a844388d82",
+  "name":"Output-IoT",
+  "rules": true,
+  "rules-content": [
+    {"temperature":10, "operation":">"},
+    {"humidity":10, "operation":">"}
+  ],
+  "ssh": {"username": "syz", "password": "@Dm1n&SYZ%-_", "port": 22}
+}

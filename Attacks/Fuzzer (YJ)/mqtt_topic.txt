@@ -1,0 +1,14 @@
+data
+temperature
+iot
+humidity
+weather
+revenue
+customer
+rain
+distance
+height
+weight
+profit
+population
+marks
